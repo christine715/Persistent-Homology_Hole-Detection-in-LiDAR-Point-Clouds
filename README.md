@@ -2,7 +2,7 @@
 Suen Wun Ki Christine <br>
 christinesuen715@gmail.com <br>
 July 12, 2021 <br>
-It is a computer vision algorithm used in my dissertation, which was submitted to the Hong Kong Polytechnic University in partial fulfillment of the requirement for the degree of Bachelor of Science (Honours) in Geomatics instructed by Dr. Wai Yeung Yan.
+It is a computer vision algorithm used in my dissertation, which was submitted to the Hong Kong Polytechnic University in partial fulfillment of the requirement for the degree of Bachelor of Science (Honours) in Geomatics.
 ## Description
 Missing area in the point clouds is one of the common problems in LiDAR. Therefore, the code for the detection of hole in LiDAR point clouds by Persistent Homology is presented.<br><br>
 The main features: <br>
